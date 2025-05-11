@@ -9,7 +9,11 @@ Here is your generated `README.md` file content:
 
 The Robot Car is an autonomous line-following robot with obstacle avoidance capabilities built on the ESP32 platform. This project demonstrates advanced robotics concepts using affordable hardware components and leverages the ESP-IDF framework for reliable performance.
 
-<img src="D:\Robot-Car-\images\1.JPG">
+![4](https://github.com/user-attachments/assets/bb859a50-6aed-43e2-97e6-ca3f20f0be3d)
+![3](https://github.com/user-attachments/assets/f55ed96a-3160-4357-b160-d2310869e66b)
+![2](https://github.com/user-attachments/assets/e83f064c-286e-4e30-a1d1-f58c0c2f86dc)
+![1](https://github.com/user-attachments/assets/12988612-b737-4998-b2b0-fca4b504326a)
+
 
 ## ✨ Features
 
