@@ -1,0 +1,2 @@
+source D:/TheRobotCar/build/bootloader/gdbinit/symbols
+source D:/TheRobotCar/build/bootloader/gdbinit/connect
